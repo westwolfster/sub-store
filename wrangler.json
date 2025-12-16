@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sub-store",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8070b141-8db9-4ef2-9341-f666432f5aaf",
+			"database_name": "sub-store-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
